@@ -1,6 +1,6 @@
 # GlobantAssignment
 
-Install Composer and xxamp on your machine and clone the project in xampp's htdocs directory
+Install Composer and xampp on your machine and clone the project in xampp's htdocs directory
 
 Grant RW permission to Bootstrap and Storage folders and all files and subfolders
 
