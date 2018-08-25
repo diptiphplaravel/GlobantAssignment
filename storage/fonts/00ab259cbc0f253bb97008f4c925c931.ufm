@@ -1,0 +1,96 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Digitized data (C) 2004 Agfa Monotype Corporation. Neo Tech(TM) is a trademark of Agfa Monotype Corporation and may be registered in certain jurisdictions.  All rights reserved. Neo Tech is designed by Sebastian Lester.
+FontName NeoTech
+FontSubfamily Regular
+UniqueID 1.000;pyrs;NeoTech-Light
+FullName NeoTech Light
+Version Version 1.000;PS 001.001;hotconv 1.0.38
+PostScriptName NeoTech-Light
+Trademark Please refer to the Copyright section for the font trademark attribution notices.
+Manufacturer Digitized data (C) Agfa Monotype Corporation. Neo Tech(TM) is a trademark of Agfa Monotype Corporation and may be registered in certain jurisdictions
+PreferredFamily NeoTech
+PreferredSubfamily Light
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -125
+FontHeightOffset 70
+Ascender 743
+Descender -195
+FontBBox -38 -195 743 748
+StartCharMetrics 72
+U 32 ; WX 274 ; N space ; G 3
+U 38 ; WX 620 ; N ampersand ; G 4
+U 40 ; WX 265 ; N parenleft ; G 5
+U 41 ; WX 265 ; N parenright ; G 6
+U 44 ; WX 168 ; N comma ; G 7
+U 45 ; WX 344 ; N hyphen ; G 8
+U 46 ; WX 168 ; N period ; G 9
+U 48 ; WX 580 ; N zero ; G 10
+U 49 ; WX 381 ; N one ; G 11
+U 50 ; WX 580 ; N two ; G 12
+U 51 ; WX 580 ; N three ; G 13
+U 52 ; WX 580 ; N four ; G 14
+U 53 ; WX 580 ; N five ; G 15
+U 54 ; WX 580 ; N six ; G 16
+U 55 ; WX 580 ; N seven ; G 17
+U 56 ; WX 580 ; N eight ; G 18
+U 57 ; WX 580 ; N nine ; G 19
+U 65 ; WX 614 ; N A ; G 20
+U 66 ; WX 580 ; N B ; G 21
+U 67 ; WX 537 ; N C ; G 22
+U 68 ; WX 613 ; N D ; G 23
+U 69 ; WX 533 ; N E ; G 24
+U 70 ; WX 518 ; N F ; G 25
+U 71 ; WX 588 ; N G ; G 26
+U 72 ; WX 647 ; N H ; G 27
+U 73 ; WX 224 ; N I ; G 28
+U 74 ; WX 224 ; N J ; G 29
+U 75 ; WX 542 ; N K ; G 30
+U 76 ; WX 483 ; N L ; G 31
+U 77 ; WX 730 ; N M ; G 32
+U 78 ; WX 634 ; N N ; G 33
+U 79 ; WX 632 ; N O ; G 34
+U 80 ; WX 540 ; N P ; G 35
+U 81 ; WX 632 ; N Q ; G 36
+U 82 ; WX 598 ; N R ; G 37
+U 83 ; WX 530 ; N S ; G 38
+U 84 ; WX 571 ; N T ; G 39
+U 85 ; WX 633 ; N U ; G 40
+U 86 ; WX 630 ; N V ; G 41
+U 87 ; WX 788 ; N W ; G 42
+U 88 ; WX 602 ; N X ; G 43
+U 89 ; WX 551 ; N Y ; G 44
+U 90 ; WX 595 ; N Z ; G 45
+U 97 ; WX 504 ; N a ; G 46
+U 98 ; WX 504 ; N b ; G 47
+U 99 ; WX 437 ; N c ; G 48
+U 100 ; WX 504 ; N d ; G 49
+U 101 ; WX 511 ; N e ; G 50
+U 102 ; WX 313 ; N f ; G 51
+U 103 ; WX 504 ; N g ; G 52
+U 104 ; WX 505 ; N h ; G 53
+U 105 ; WX 204 ; N i ; G 54
+U 106 ; WX 204 ; N j ; G 55
+U 107 ; WX 444 ; N k ; G 56
+U 108 ; WX 204 ; N l ; G 57
+U 109 ; WX 748 ; N m ; G 58
+U 110 ; WX 511 ; N n ; G 59
+U 111 ; WX 522 ; N o ; G 60
+U 112 ; WX 504 ; N p ; G 61
+U 113 ; WX 504 ; N q ; G 62
+U 114 ; WX 309 ; N r ; G 63
+U 115 ; WX 440 ; N s ; G 64
+U 116 ; WX 334 ; N t ; G 65
+U 117 ; WX 511 ; N u ; G 66
+U 118 ; WX 480 ; N v ; G 67
+U 119 ; WX 748 ; N w ; G 68
+U 120 ; WX 493 ; N x ; G 69
+U 121 ; WX 509 ; N y ; G 70
+U 122 ; WX 446 ; N z ; G 71
+EndCharMetrics
+EndFontMetrics
