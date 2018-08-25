@@ -4,6 +4,8 @@ Install Composer and xampp on your machine and clone the project in xampp's htdo
 
 Grant RW permission to Bootstrap and Storage folders and all files and subfolders
 
+Start MySQL and Apache Web Server
+
 Then update the composer with "composer update" command.
 
 Set below values in .env Create database and give details as per below DB_HOST=<DB_HOST> DB_PORT=<DB_PORT> DB_DATABASE=<DB_DATABASE> DB_USERNAME=<DB_USERNAME> DB_PASSWORD=<DB_PASSWORD>
