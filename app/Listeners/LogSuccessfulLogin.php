@@ -5,7 +5,7 @@ use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Auth\Events\Login;
 use Illuminate\Http\Request;
-use App\Http\Controllers\CommonActivityController;
+
 class LogSuccessfulLogin
 {
     /**
@@ -16,8 +16,6 @@ class LogSuccessfulLogin
     public function __construct(Request $request)
     {
     	$this->request = $request;
-    	$this->commonActivityObject=new CommonActivityController();
-    	$this->commonActivityObject->Log_Records('User_Login',json_encode($request->except(['_token'])),$request);
     }
 
     /**
