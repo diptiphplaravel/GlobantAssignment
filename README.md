@@ -1,4 +1,4 @@
-# GlobantAssignment
+# LoginAssignment
 
 Install Composer and xampp on your machine and clone the project in xampp's htdocs directory
 
@@ -15,7 +15,7 @@ Also set smtp settings in .env MAIL_DRIVER, MAIL_HOST, MAIL_PORT, MAIL_USERNAME,
 Run command : php artisan migrate
 	This will create required database tables in the database specified in .env file
 	
-Hit the URL : http://localhost/GlobantAssignment/public/
+Hit the URL : http://localhost/LoginAssignment/public/
 
 Click on Register link to register new user
 
